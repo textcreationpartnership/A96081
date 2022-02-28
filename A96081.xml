@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copie of the remonstrance and petition, presented to the Honourable the House of Commons assembled in Parliament. By Sir David Watkins Knight, Mr. Shuite, and others, (the now principall designers and managers of the publique affaires of the citie) earnestly arguing for no accomodation. but a vigorous prosecution of the present warre. With a petition of certaine other citizens of London, intended to be presented for peace.</title>
+            <author>Watkins, David, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96081</idno>
+            <idno type="STC">Wing W1062</idno>
+            <idno type="STC">Wing W1063</idno>
+            <idno type="STC">Thomason E130_7</idno>
+            <idno type="STC">ESTC R21296</idno>
+            <idno type="EEBO-CITATION">99871398</idno>
+            <idno type="PROQUEST">99871398</idno>
+            <idno type="VID">156299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156299)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copie of the remonstrance and petition, presented to the Honourable the House of Commons assembled in Parliament. By Sir David Watkins Knight, Mr. Shuite, and others, (the now principall designers and managers of the publique affaires of the citie) earnestly arguing for no accomodation. but a vigorous prosecution of the present warre. With a petition of certaine other citizens of London, intended to be presented for peace.</title>
+                  <author>Watkins, David, Sir.</author>
+                  <author>Shute, Mr.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 13. Printed by T.F. for J.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Variant (Wing W1063): imprint has "Decemb. 14".</note>
+                  <note>Annotation on Thomason copy: "[illegible] in frivilous petition".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156299:1" rendition="simple:additions"/>
+            <p>A TRUE COPIE OF THE REMONSTRANCE AND PETITION, PRESENTED To the Honourable the Houſe of COMMONS aſſembled in PARLIAMENT.</p>
+            <p>BY Sir <hi>David Watkins</hi> Knight, Mr. <hi>Shuite,</hi> and others, (the now principall Deſigners and managers of the publique Affaires of the Citie) earneſtly argu<g ref="char:EOLhyphen"/>ing for no Accomodation, but a vigorous proſecution of the preſent Warre.</p>
+            <p>WITH A Petition of certaine o<g ref="char:EOLhyphen"/>ther CITIZENS of <hi>London,</hi> intended to be preſented for Peace.</p>
+            <p>LONDON, <hi>Decemb.</hi> 13. Printed by <hi>T. F.</hi> for <hi>J. B.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb facs="tcp:156299:2"/>
+            <pb facs="tcp:156299:2"/>
+            <head>TO The Honourable the Knights, Ci<g ref="char:EOLhyphen"/>tizens, and Burgeſſes, of the Com<g ref="char:EOLhyphen"/>mons Houſe of PARLIAMENT.</head>
+            <head type="sub">The humble Remonſtrance and Petition of many of the Citizens of <hi>LONDON.</hi>
+            </head>
+            <opener>Shewing:</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat ever ſince the be<g ref="char:EOLhyphen"/>ginning of theſe pre<g ref="char:EOLhyphen"/>ſent ſad diſtractions which threaten ruines to theſe flouriſhing Kingdoms, and indeed ever ſince the ſitting of this preſent Parlia<g ref="char:EOLhyphen"/>ment, they have been ready out of their Zeale to the cauſe of GOD, and ſence of their duty to this Honourable Aſſembly, upon all occaſions to Contribute, ſub<g ref="char:EOLhyphen"/>ſerve, and lay out themſelves, in all thoſe wayes, which they did eyther diſcerne, or were directed, did tend to the maintenance of that Cauſe, or were
+<pb facs="tcp:156299:3"/>neceſſary for the defence of the Common ſafety, wherein they have at all times with all cheerful<g ref="char:EOLhyphen"/>neſſe and readineſſe, advanced ſuch monies as have bin deſired, (in the whole to very great and vaſt ſummes) and have had leavied and raiſed amongſt them the greateſt number of thoſe men, who both firſt formed and now alſo recruted the Army.</p>
+            <p>By all which they hoped to have ſeene the end of their dangers and removall of their feares, by the juſt, ſevere, and exemplary puniſhment of De<g ref="char:EOLhyphen"/>linquents, who are the cauſes of all theſe ruining perturbations, and to have bin by this time ſetled in the enjoyment of that happie Peace they have al<g ref="char:EOLhyphen"/>wayes deſired: But deceived of this hope, they cannot omit humbly to Remonſtrate, that after all this vaſt expenſe, they finde themſelves but little neerer their end, if not more dangerouſly involved, and like enough to keepe theſe inteſtine Warres on foot, till they ſhortly become a prey to a forreigne force, as late diſcoveries give them cauſe to feare.</p>
+            <p>And however they are very ſenſible of the great Burthen of renued Contributions, both beyond the example of former Times, and their owne expec<g ref="char:EOLhyphen"/>tation of ſuch ſupplies; yet they ſhall with the ſame life and cheerfulneſſe goe on to adventure more; ſo as it may be employed in a more ſpeedy and effectuall proſecution of the Warres, which they humbly conceive would not have bin drawne out to this length, had it not bin for giving eare to thoſe councels of Accommodation, a Propoſition induced by our Enemies to gaine time, which if concluded, they will keepe onely ſo long as to ſerve
+<pb facs="tcp:156299:3"/>their ends, but the very concluſion of it wholly in<g ref="char:EOLhyphen"/>comptable, as your Remonſtrants humbly con<g ref="char:EOLhyphen"/>ceive, with the Proteſtation of bringing to con<g ref="char:EOLhyphen"/>digne puniſhment theſe grand Delinquents, and In<g ref="char:EOLhyphen"/>cendiaries, who have imbroyled our State, and ſought to introduce a tyrannie, without whoſe councell and influence, nothing on that ſide can be concluded, and as alſo the ready way to expend and waſte their remaining Treaſure, and render them thereby wholly unable to defend themſelves.</p>
+            <p>The contemplation of their eminent danger thereby, inforceth them humbly to remonſtrate, that if theſe diſtructive councels of accommodation bee re-aſſumed, they ſhall thinke it neceſſary to looke to their owne ſafeties, and forbeate to con<g ref="char:EOLhyphen"/>tribute to their owne ruine; to which onely Ac<g ref="char:EOLhyphen"/>commodation, and not the greateſt force of theſe Enemies of the publique Peace can ever bring them; the motion whereof your Remonſtrants beleeve, will be exploded with the greateſt indig<g ref="char:EOLhyphen"/>nity by all the good Patriots of your Honourable Aſſembly, yet humbly deſire you will be pleaſed to publiſh ſuch a Declaration herein, as ſhall ſeeme good to your Wiſdomes, whereby not onely the People may be aſſured, that men miſaffected to the Publique may not ſerve their owne ends, or drive on their particular deſignes in this diſtructive Ac<g ref="char:EOLhyphen"/>commodation; but alſo the Ingeniers of theſe contrivances may lie under the expectation of a juſt and heavie cenſure; if they ſhall yet dare by ſuch dangerous and unreaſonable interpellations, to be<g ref="char:EOLhyphen"/>reave us of the right and wholeſome uſe of our ad<g ref="char:EOLhyphen"/>vantages
+<pb facs="tcp:156299:4"/>and opportunities; by which for the pre<g ref="char:EOLhyphen"/>ſent, beſides all other dangerous effects, the Delin<g ref="char:EOLhyphen"/>quents and Incendiaries are incouraged, with the hope of a good retreat, when they have done their utmoſt.</p>
+            <p>The ſad effects of this Accommodation appea<g ref="char:EOLhyphen"/>ring at diſtance, more terrible unto your Remon<g ref="char:EOLhyphen"/>ſtrants then the preſent view of the worſt of this unnaturall warre, gives the boldneſſe to them, to make this humble addreſſe to this moſt Honoura<g ref="char:EOLhyphen"/>ble Aſſembly; withall profeſſing that they are re<g ref="char:EOLhyphen"/>ſolved with the utmoſt expenſe of Lives, and eſtates to ſtand by, aſſiſt, maintaine, and execute all your councels, and commands, that ſhall tend to the vi<g ref="char:EOLhyphen"/>gorous and effectuall proſecution of this warre.</p>
+            <p>They therefore humbly pray you will be pleaſed to declare your Senſe againſt this dangerous Ac<g ref="char:EOLhyphen"/>commodation, that being aſſured of your fixed re<g ref="char:EOLhyphen"/>ſolution not to treate with his Majeſty, but in Par<g ref="char:EOLhyphen"/>liament, and divided from his wicked and deſperate Councellors, they may with the greater reſolution be prepared, to goe on cheerefully in ſuch ſupplies, as are neceſſary to bring theſe Diſtractions to a happie iſſue.</p>
+            <closer>For which they ſhall ever Pray, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156299:4"/>
+            <head>TO THE RIGHT HONOVRABLE THE <hi>LORDS</hi> and <hi>COMMONS</hi> now aſſembled in the high Court of PARLIAMENT.</head>
+            <head type="sub">The humble Petition of divers Inhabitants of the City of <hi>London,</hi> and the Liberties thereof.</head>
+            <opener>SHEWETH.</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the preſent ſence of our miſeries, and ap<g ref="char:EOLhyphen"/>prehenſion of inevitable ruine both of the Church and Common-wealth, make us to become humble ſuitors to this Honourable Aſſembly (the like<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſt meanes under God for on <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (to conſider our diſtreſſed eſtates, and to provide a ſpeedy remedy for out preſent and future evills, earneſtly deſiring you to weigh the care and Iudgement of our predeceſſors who by a knowne Law, ſettled and pre<g ref="char:EOLhyphen"/>ſerved our Proteſtant Religion, our Liberties, and Proper<g ref="char:EOLhyphen"/>ties, with a right underſtanding betweene King and Sub<g ref="char:EOLhyphen"/>iects, which produced peace and plenty in our Streets.</p>
+            <pb facs="tcp:156299:5"/>
+            <p>And to reflect with ſerious thoughts upon our preſent diſtempers, violating Religion by Papiſts and Sectaries, en<g ref="char:EOLhyphen"/>gaging our Nation into a civill, bloody, and deſtructive Warre, invading our Lawes and Liberties, endangering all our Lives, and utterly diſinabling us to relieve our diſtreſſed bretheren in <hi>Ireland:</hi> We beſeech you likewiſe to conſider the effects of continued Warre, as the deſtruction of Chri<g ref="char:EOLhyphen"/>ſtians, the unnaturall effuſion of blood; fathers againſt ſons brothers by brothers, friends by friends ſlaine, then fa<g ref="char:EOLhyphen"/>mine and ſickneſſe, the followers of a civill Warre, making way for a generall confuſion, and invaſion by a forraigne Nation, while our Treaſure is exhauſted our Trade loſt, and the Kingdome diſpeopled. Theſe things weighed and en<g ref="char:EOLhyphen"/>larged by your wiſdomes, we doubt not will be ſtrong mo<g ref="char:EOLhyphen"/>tives in us to deſire a ſpeedy Peace, and a happy Accom<g ref="char:EOLhyphen"/>modation.</p>
+            <p>Wherefore we humbly crave, that (not lending an eare to any fomenters of theſe preſent Warres, under what pretence ſoever, nor remembring ought that may increaſe Iealouſies, or continue diviſions between his Maieſty and his Houſes of Parliament) you will ſpeedily tender his Maieſty (according to his Royall intimations) ſuch Propoſitions for Accommodation, as he may with honour and ſafety to the whole King dome accept. For effecting whereof we ſhall be rea<g ref="char:EOLhyphen"/>dy to aſſiſt you with the beſt and utmoſt of our abi<g ref="char:EOLhyphen"/>lities, and whileſt you endeavour Peace, Wee ſhall ſend up our Prayers to heaven for the bleſſing of peace upon you, and all thoſe that deſire it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
